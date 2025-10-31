@@ -12,6 +12,7 @@
   <img align="center" alt="Cris-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" alt="Cris-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
   <img align="center" alt="Cris-Github" height="30" width="40" src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000">
+  <img align="center" alt="Cris-Github" height="30" width="40" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000">
 </div>
 
 ## 🌍 Redes Sociais
